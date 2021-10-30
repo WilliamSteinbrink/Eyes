@@ -1,2 +1,3 @@
 # Eyes
-Project to create two eyes that follow mouse movement
+## Exercise on eyes
+<img src= "oneeye.png" width='300'/>
