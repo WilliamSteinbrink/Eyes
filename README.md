@@ -1,7 +1,7 @@
 # Eyes
 ## Exercise on eyes
 
-This project creates two eyes in the display that track the user's mouse movements. Created using HTML, CSS, and Javascript.
+This project creates two eyes in the display that track the user's mouse movements as it moves around the screen. Created using HTML and CSS.
 
 To use:
 Move mouse around screen and watch the eyes move!
